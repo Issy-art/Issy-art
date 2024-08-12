@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ...i am an artits
+- ⚡ Fun fact: ...i am an artist
 
 <!---
 Issy-art/Issy-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
